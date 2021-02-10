@@ -1,0 +1,25 @@
+.statistics {
+  margin-bottom: 10px;
+  width: fit-content;
+  text-align: center;
+  background-color: rgba(238, 238, 238, 1);
+}
+
+.title {
+  margin-bottom: 10px;
+  padding: 20px;
+}
+
+.statlist {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.item {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+
+  width: 70px;
+  padding: 10px;
+}
